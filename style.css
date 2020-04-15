@@ -1,0 +1,47 @@
+/*
+Theme name: Anri Theme
+Theme URL: https://www.coderjibon.com
+Author name: Jibon roy
+Author URl: https://www.coderjibon.com
+Description: Hi, My name is Jibon. I am a professional Wordpress developer. I love to work with WordPress. I have been completed more than 100 projects on Wordpress Themes Customization. I have worked with various technologies including , HTML5,  CSS3,  PSD to HTML,  Bootstrap,  JavaScript,  JQuery,  PSD to Bootstrap,  PHP,  WordPress, wp-theme , plugin, woocommerce , ecommerce, woocommerce develoment, theme develoment , plugin develoment , wordpress developer . 
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: anri
+Tags: WordPress Install, Premium Theme, Responsive design, (Desktop, Tablet &Smartphone compatible), Import Demo data/content, Fast loading pages, Ecommerce, Functionality., All the plugins you will need, Speed up your, WordPress website, Bug Fixes, Social share buttons, Backup, Cloning & Migration, User-friendly admin panel, Re-design your existing site, High-Quality, Slider, SEO friendly structure, Fully secure website, Content from, blog integration, Google map, Social media integration, Clear navigation across the site, Live Chat option
+
+*/
+
+/* custom css */
+.page-footer ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.page-footer ul li {
+    margin-bottom: 5px;
+}
+.page-footer ul li a {
+    color: #262626;
+text-decoration: none;
+}
+
+.sidebar-widget .tagcloud {
+    padding-top: 20px;
+    text-align: center;
+}
+
+.sidebar-widget .tagcloud a {
+    display: inline-block;
+    margin-right: 4px;
+    margin-bottom: 10px;
+    padding: 5px 10px!important;
+    border: 1px dotted #dcdcdc;
+    font-size: 14px!important;
+	color: #262626;
+	text-decoration: none;
+}
+
+.sidebar-widget .tagcloud a:hover {
+    border-color: #262626;
+}
